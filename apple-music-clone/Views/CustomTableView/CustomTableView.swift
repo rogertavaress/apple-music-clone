@@ -10,8 +10,7 @@ import UIKit
 class CustomTableView: UITableView {
 
     init() {
-        super.init(frame: .zero, style: .grouped)
-        self.backgroundColor = .white
+        super.init(frame: .zero, style: .plain)
         self.translatesAutoresizingMaskIntoConstraints = false
     }
     

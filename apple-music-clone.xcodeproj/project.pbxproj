@@ -95,6 +95,13 @@
 			path = "apple-music-clone";
 			sourceTree = "<group>";
 		};
+		9EC975FB285B4C1A0022DB53 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
 		9EE404362857FA0600B8E36D /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +137,7 @@
 		9EE4043B2857FAC400B8E36D /* CustomTableView */ = {
 			isa = PBXGroup;
 			children = (
+				9EC975FB285B4C1A0022DB53 /* Cells */,
 				9EE4043C2857FAF500B8E36D /* CustomTableView.swift */,
 			);
 			path = CustomTableView;
